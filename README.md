@@ -1,4 +1,4 @@
 Roses can also be pink,
 Violets are blue,
-Programming is so much fun,
+Programming is a lot of fun,
 And teamwork is too.
