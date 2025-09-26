@@ -1,4 +1,4 @@
 Roses are red,
 Violets are blue,
-Programming is fun,
+Programming is enjoying play around
 And teamwork is too.
